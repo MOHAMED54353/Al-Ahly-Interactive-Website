@@ -8,7 +8,7 @@ A modern, interactive football website built with React and Vite, featuring a cl
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-red?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_LIVE_DEMO_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-red?style=for-the-badge\&logo=vercel\&logoColor=white)](https://alahly-liart.vercel.app/)
 [![React](https://img.shields.io/badge/React-2026-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Powered-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)](https://vite.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
